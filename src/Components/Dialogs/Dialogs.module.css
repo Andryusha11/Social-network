@@ -1,0 +1,19 @@
+.dialogs {
+	padding: 10px;
+	display: grid;
+	grid-template-columns: 2fr 8fr;
+}
+
+.dialogs__users {
+	padding: 10px;
+}
+
+.dialogs__messages {
+	padding: 10px;
+}
+
+.active {
+	color: gold;
+	font-size: larger;
+	margin: -5px;
+}
